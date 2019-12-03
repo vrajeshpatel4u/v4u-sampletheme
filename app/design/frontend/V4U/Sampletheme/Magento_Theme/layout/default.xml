@@ -2,13 +2,13 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
 <head>
 	<css src="css/custom.css"/>
-	<link src="js/custom.js"/>
+	<!-- <link src="js/custom.js"/> -->
 
 </head>
 <body>
 <referenceBlock name="logo">
 <arguments>
-<argument name="logo_file" xsi:type="string">images/logo.jpeg</argument>
+<argument name="logo_file" xsi:type="string">images/vp.png</argument>
 </arguments>
 </referenceBlock>
 <remove name="report.bugs"/>
